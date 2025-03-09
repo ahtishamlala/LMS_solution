@@ -1,0 +1,22 @@
+E:\LMS Project\LMS_solution\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+E:\LMS Project\LMS_solution\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+E:\LMS Project\LMS_solution\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+E:\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+E:\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+E:\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+E:\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+E:\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+E:\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll

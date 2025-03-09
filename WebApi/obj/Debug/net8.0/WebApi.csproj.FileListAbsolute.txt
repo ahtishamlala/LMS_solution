@@ -1,0 +1,140 @@
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\appsettings.Development.json
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\appsettings.json
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\WebApi.exe
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\WebApi.deps.json
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\WebApi.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\WebApi.pdb
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Dapper.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.dll
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.pdb
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+E:\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Google.Protobuf.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\MySql.Data.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.Text.Json.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\ZstdSharp.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\ClassLibrary.dll
+E:\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Dapper.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\WebApi\obj\Debug\net8.0\ref\WebApi.dll

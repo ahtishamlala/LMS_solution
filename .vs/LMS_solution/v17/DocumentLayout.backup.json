@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LMS Project\\LMS_solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|e:\\lms project\\lms_solution\\webapp\\areas\\dashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|solutionrelative:webapp\\areas\\dashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|e:\\lms project\\lms_solution\\webapp\\areas\\dashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|solutionrelative:webapp\\areas\\dashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|e:\\lms project\\lms_solution\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|e:\\lms project\\lms_solution\\webapp\\areas\\dashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|solutionrelative:webapp\\areas\\dashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|e:\\lms project\\lms_solution\\webapp\\areas\\dashboard\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|solutionrelative:webapp\\areas\\dashboard\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|e:\\lms project\\lms_solution\\webapp\\areas\\dashboard\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|solutionrelative:webapp\\areas\\dashboard\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|e:\\lms project\\lms_solution\\webapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|e:\\lms project\\lms_solution\\webapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|solutionrelative:webapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|e:\\lms project\\lms_solution\\webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4162E6DD-0A26-4325-A00F-85E523EADC52}|WebApp\\WebApp.csproj|solutionrelative:webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACDDA5B-0F21-49E2-861D-A21B8C171C0E}|WebApi\\WebApi.csproj|e:\\lms project\\lms_solution\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9ACDDA5B-0F21-49E2-861D-A21B8C171C0E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LMS Project\\LMS_solution\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "E:\\LMS Project\\LMS_solution\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:06:48.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\LMS Project\\LMS_solution\\WebApp\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\LMS Project\\LMS_solution\\WebApp\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T10:06:14.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\LMS Project\\LMS_solution\\WebApp\\Areas\\Dashboard\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Areas\\Dashboard\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\LMS Project\\LMS_solution\\WebApp\\Areas\\Dashboard\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApp\\Areas\\Dashboard\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T10:06:13.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\LMS Project\\LMS_solution\\WebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\LMS Project\\LMS_solution\\WebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T10:05:57.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\LMS Project\\LMS_solution\\WebApp\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\LMS Project\\LMS_solution\\WebApp\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T10:05:46.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\LMS Project\\LMS_solution\\WebApp\\Areas\\Dashboard\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Areas\\Dashboard\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\LMS Project\\LMS_solution\\WebApp\\Areas\\Dashboard\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp\\Areas\\Dashboard\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:48:08.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\LMS Project\\LMS_solution\\WebApp\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\LMS Project\\LMS_solution\\WebApp\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T10:03:43.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "E:\\LMS Project\\LMS_solution\\WebApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "E:\\LMS Project\\LMS_solution\\WebApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-07T10:05:17.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApp",
+              "DocumentMoniker": "E:\\LMS Project\\LMS_solution\\WebApp\\WebApp.csproj",
+              "RelativeDocumentMoniker": "WebApp\\WebApp.csproj",
+              "ToolTip": "E:\\LMS Project\\LMS_solution\\WebApp\\WebApp.csproj",
+              "RelativeToolTip": "WebApp\\WebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T09:36:31.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebApi",
+              "DocumentMoniker": "E:\\LMS Project\\LMS_solution\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "E:\\LMS Project\\LMS_solution\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T09:36:29.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
