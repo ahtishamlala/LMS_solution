@@ -61,7 +61,7 @@
     <!-- subscribe-area end -->
 </main>
 
-<!--footer-area start-->
+
 <!--AJAX-->
 
 <script>
@@ -80,23 +80,31 @@
                 contentType: 'application/json',
                 data: JSON.stringify(loginData),
                 success: function (response) {
-                    alert('Login successful!');
-                    localStorage.setItem("token", response.token);
-                    window.location.href = '/Home/Dashboard';
+                    if (response.status == 200) {
+                        alert('Login successful!');
+                        localStorage.setItem("token", response.token);
+                        window.location.href = '/Home/Dashboard';
+                        $('#loginForm')[0].reset();
+                        
+                    }
+                    else  {
+                        alert("Incorrect username or Password... ");
+                        
+                    }
+
                 },
                 error: function (xhr, status, error) {
-                    alert('Login failed: ' + error);
+                    console.log("Error details:", xhr, status, error); // Log error details for debugging
+                    alert("An error occurred: " + xhr.responseText); // Display more specific error message
                 }
             });
         });
     });
 </script>
 
-    <!--AJAX-->
-
-    <!-- JS here -->
-
-   @*  <script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
+<!--AJAX-->
+<!-- JS here -->
+@*  <script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
     <script src="assets/js/vendor/jquery-2.2.4.min.js"></script>
     <script src="assets/js/popper.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>

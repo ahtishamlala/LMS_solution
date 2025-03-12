@@ -13,6 +13,926 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\2.ico",
+      "PackagePath": "staticwebassets\\img\\2.ico"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\about\\01.png",
+      "PackagePath": "staticwebassets\\img\\about\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\about\\02.png",
+      "PackagePath": "staticwebassets\\img\\about\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\03.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\04.png",
+      "PackagePath": "staticwebassets\\img\\blog\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\05.png",
+      "PackagePath": "staticwebassets\\img\\blog\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\06.png",
+      "PackagePath": "staticwebassets\\img\\blog\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\07.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\08.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\09.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\10.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\13.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\14.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\15.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\16.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\17.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\18.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\19.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\20.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\21.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\22.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\23.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\24.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\25.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\26.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\27.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\28.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\29.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\30.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\31.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\32.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\33.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\34.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\35.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\comment\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comment\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\comment\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comment\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\blog\\comment\\03.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comment\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\category-icon\\atom.svg",
+      "PackagePath": "staticwebassets\\img\\category-icon\\atom.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\category-icon\\business-report.svg",
+      "PackagePath": "staticwebassets\\img\\category-icon\\business-report.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\category-icon\\career-path.svg",
+      "PackagePath": "staticwebassets\\img\\category-icon\\career-path.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\category-icon\\graphic-tool.svg",
+      "PackagePath": "staticwebassets\\img\\category-icon\\graphic-tool.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\category-icon\\web-development.svg",
+      "PackagePath": "staticwebassets\\img\\category-icon\\web-development.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\chose\\01.png",
+      "PackagePath": "staticwebassets\\img\\chose\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\chose\\02.png",
+      "PackagePath": "staticwebassets\\img\\chose\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\chose\\03.png",
+      "PackagePath": "staticwebassets\\img\\chose\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\chose\\04.png",
+      "PackagePath": "staticwebassets\\img\\chose\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\chose\\05.png",
+      "PackagePath": "staticwebassets\\img\\chose\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\chose\\06.jpg",
+      "PackagePath": "staticwebassets\\img\\chose\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\contact\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\contact\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\contact\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\contact\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\01.png",
+      "PackagePath": "staticwebassets\\img\\course\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\02.png",
+      "PackagePath": "staticwebassets\\img\\course\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\03.png",
+      "PackagePath": "staticwebassets\\img\\course\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\04.png",
+      "PackagePath": "staticwebassets\\img\\course\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\05.png",
+      "PackagePath": "staticwebassets\\img\\course\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\06.png",
+      "PackagePath": "staticwebassets\\img\\course\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\07.png",
+      "PackagePath": "staticwebassets\\img\\course\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\08.png",
+      "PackagePath": "staticwebassets\\img\\course\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\09.png",
+      "PackagePath": "staticwebassets\\img\\course\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\10.png",
+      "PackagePath": "staticwebassets\\img\\course\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\11.png",
+      "PackagePath": "staticwebassets\\img\\course\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\12.png",
+      "PackagePath": "staticwebassets\\img\\course\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\13.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\14.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\15.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\16.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\17.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\18.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\details\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\details\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\details\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\details\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\details\\03.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\details\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\details\\04.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\details\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\details\\05.jpg",
+      "PackagePath": "staticwebassets\\img\\course\\details\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\details\\teacher.png",
+      "PackagePath": "staticwebassets\\img\\course\\details\\teacher.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\in1.png",
+      "PackagePath": "staticwebassets\\img\\course\\in1.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\in10.png",
+      "PackagePath": "staticwebassets\\img\\course\\in10.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\in11.png",
+      "PackagePath": "staticwebassets\\img\\course\\in11.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\in12.png",
+      "PackagePath": "staticwebassets\\img\\course\\in12.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\in2.png",
+      "PackagePath": "staticwebassets\\img\\course\\in2.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\in3.png",
+      "PackagePath": "staticwebassets\\img\\course\\in3.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\in4.png",
+      "PackagePath": "staticwebassets\\img\\course\\in4.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\in5.png",
+      "PackagePath": "staticwebassets\\img\\course\\in5.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\in6.png",
+      "PackagePath": "staticwebassets\\img\\course\\in6.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\in7.png",
+      "PackagePath": "staticwebassets\\img\\course\\in7.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\in8.png",
+      "PackagePath": "staticwebassets\\img\\course\\in8.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\course\\in9.png",
+      "PackagePath": "staticwebassets\\img\\course\\in9.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\faq\\01.png",
+      "PackagePath": "staticwebassets\\img\\faq\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\01.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\01.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\02.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\02.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\03.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\03.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\03a.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\03a.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\04.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\04.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\05.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\05.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\06.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\06.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\3d-02.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\3d-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\3d.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\3d.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\Icon ionic-ios-arrow-forward.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\Icon ionic-ios-arrow-forward.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\Quotemarks-right.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\Quotemarks-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\ambulance-02.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\ambulance-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\ambulance.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\ambulance.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\arrow-right-white.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\arrow-right-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\avatar-outline-alerted.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\avatar-outline-alerted.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\avatar-outline-badged-2.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\avatar-outline-badged-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\avatar-outline-badged.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\avatar-outline-badged.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\bar-chart.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\bar-chart.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\box-comment-detail.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\box-comment-detail.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\catalog.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\catalog.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\certificate-line.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\certificate-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\chart-02.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\chart-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\chart-a.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\chart-a.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\chart.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\chart.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\code-01.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\code-01.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\code-a.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\code-a.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\code.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\code.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\course.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\course.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\cube-02.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\cube-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\cube-a.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\cube-a.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\cube.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\cube.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\date-line.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\date-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\design-02.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\design-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\design-1b.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\design-1b.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\design-a.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\design-a.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\dna-color.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\dna-color.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\dna.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\dna.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\dot-plan-1.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\dot-plan-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\dot-plane.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\dot-plane.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\download.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\download.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\earth-bg-fram.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\earth-bg-fram.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\earth-bg.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\earth-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\feather-mail.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\feather-mail.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\graduate.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\graduate.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\icon10.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\icon10.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\icon11.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\icon11.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\icon12.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\icon12.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\icon13.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\icon13.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\icon14.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\icon14.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\icon7.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\icon7.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\icon8.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\icon8.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\icon9.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\icon9.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\infinity.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\infinity.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\lifetime.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\lifetime.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\mace-02.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\mace-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\mace.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\mace.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\manager.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\manager.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\material-access-time.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\material-access-time.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\material-comment.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\material-comment.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\material-date-range.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\material-date-range.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\material-location-on.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\material-location-on.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\mobile.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\mobile.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\newspaper.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\newspaper.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\notepad.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\notepad.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\phone-alt.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\phone-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\phone-operator.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\phone-operator.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\professor.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\professor.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\puzzle.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\puzzle.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\quote-right-3.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\quote-right-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\quote.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\quote.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\reading.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\reading.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\report.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\report.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\shield-check.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\shield-check.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\skill-level-intermediate.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\skill-level-intermediate.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\test.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\test.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\time.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\time.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\user.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\user.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\video-player.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\video-player.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\video.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\video.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\icon\\writing.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\writing.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\instructor\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\instructor\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\instructor\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\instructor\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\instructor\\03.jpg",
+      "PackagePath": "staticwebassets\\img\\instructor\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\instructor\\04.jpg",
+      "PackagePath": "staticwebassets\\img\\instructor\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\instructor\\05.jpg",
+      "PackagePath": "staticwebassets\\img\\instructor\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\instructor\\06.jpg",
+      "PackagePath": "staticwebassets\\img\\instructor\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\instructor\\07.jpg",
+      "PackagePath": "staticwebassets\\img\\instructor\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\instructor\\08.jpg",
+      "PackagePath": "staticwebassets\\img\\instructor\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\instructor\\09.jpg",
+      "PackagePath": "staticwebassets\\img\\instructor\\09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\instructor\\10.jpg",
+      "PackagePath": "staticwebassets\\img\\instructor\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\instructor\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\instructor\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\instructor\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\instructor\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\instructor\\13.jpg",
+      "PackagePath": "staticwebassets\\img\\instructor\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\logo\\header_logo_one.svg",
+      "PackagePath": "staticwebassets\\img\\logo\\header_logo_one.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\page-title-bg\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\page-title-bg\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\01.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\01.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\02.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\02.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\c1.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\c1.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\c2.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\c2.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\c3.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\c3.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\c4.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\c4.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\c5.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\c5.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\c6.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\c6.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\c7.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\c7.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\dot-box-1.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\dot-box-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\dot-box-2.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\dot-box-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\dot-box-4.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\dot-box-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\dot-box-5.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\dot-box-5.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\dot-box3.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\dot-box3.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\faq-shape-01.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\faq-shape-01.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\line-border.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\line-border.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\round-dot.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\round-dot.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\shape\\zigzg-1.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\zigzg-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\slider\\01.png",
+      "PackagePath": "staticwebassets\\img\\slider\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\slider\\02.png",
+      "PackagePath": "staticwebassets\\img\\slider\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\slider\\03.png",
+      "PackagePath": "staticwebassets\\img\\slider\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\slider\\avatar-bg.png",
+      "PackagePath": "staticwebassets\\img\\slider\\avatar-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\slider\\earth-bg.svg",
+      "PackagePath": "staticwebassets\\img\\slider\\earth-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\slider\\slide2.png",
+      "PackagePath": "staticwebassets\\img\\slider\\slide2.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\slider\\slide3.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slide3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\testimonial\\01.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\testimonial\\02.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\testimonial\\03.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\testimonial\\04.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\testimonial\\05.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\testimonial\\06.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\testimonial\\07.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\testimonial\\08.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\testimonial\\09.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\testimonial\\10.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\testimonial\\11.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\testimonial\\12.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\testimonial\\13.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\testimonial\\map-dot.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\map-dot.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\video\\01.png",
+      "PackagePath": "staticwebassets\\img\\video\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\video\\02.png",
+      "PackagePath": "staticwebassets\\img\\video\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\img\\video\\03.png",
+      "PackagePath": "staticwebassets\\img\\video\\03.png"
+    },
+    {
       "Id": "C:\\Users\\S a k h i compuTER\\Downloads\\LMS Project\\LMS Project\\LMS_solution\\WebApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

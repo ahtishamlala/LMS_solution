@@ -36,7 +36,7 @@ namespace WebApi.Controllers
 
 
                     response = CustomStatusResponse.GetResponse(200);
-                    response.Token = TokenManager.GenerateToken(claimDTO);
+                    //response.Token = TokenManager.GenerateToken(claimDTO);
                     response.Data = new
                     {
                         dataObj = claimDTO,
@@ -109,6 +109,7 @@ namespace WebApi.Controllers
                 response = CustomStatusResponse.GetResponse(500);
                 response.Token = null;
                 response.ResponseMsg = ex.Message;
+
             }
 
             return response;

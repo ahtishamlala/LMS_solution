@@ -109,10 +109,14 @@
                                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown4">
                                                 <li><a class="dropdown-item" href="blog.html">Blog Grid</a></li>
                                                 <li><a class="dropdown-item" href="blog-details.html">Blog Details</a></li>
-                                                <li><a class="dropdown-item" asp-controller="Home" asp-action="Login">Login</a></li>
-                                                <li><a class="dropdown-item" asp-controller="Home" asp-action="Register">Signup</a></li>
+                                               
                                             </ul>
                                         </li>
+                                       
+                                        <li class="nav-item">
+                                            <a class="nav-link" asp-controller="Home" asp-action="Login" id="navbarDropdown5" role="button" aria-expanded="false">Login</a>
+                                        </li>
+                                        
                                         <li class="nav-item">
                                             <a class="nav-link" href="contact.html" id="navbarDropdown5" role="button" aria-expanded="false">Contact</a>
                                         </li>
@@ -126,7 +130,7 @@
                             <div class="right-btn mr-25 mr-xs-15">
                                 <ul class="d-flex align-items-center">
                                     <li><a href="contact.html" class="theme_btn free_btn">Try Free Now</a></li>
-                                    <li><a class="sign-in ml-20" href="login.html"><img src="~/webAssets/img/icon/user.svg" alt=""></a></li>
+                                    <li><a class="sign-in ml-20" asp-controller="Home" asp-action="Register"><img src="~/webAssets/img/icon/user.svg" alt=""></a></li>
                                 </ul>
                             </div>
                             <div class="hamburger-menu d-md-inline-block d-lg-none text-right">

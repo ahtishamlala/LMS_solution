@@ -30,6 +30,7 @@ namespace WebApi.Repositories
                 parameters.Add("@Username", formData.Username, DbType.String, ParameterDirection.Input);
                 parameters.Add("@Email", formData.Email, DbType.String, ParameterDirection.Input);
                 parameters.Add("@Password", formData.Password, DbType.String, ParameterDirection.Input);
+                parameters.Add("@RePassword", formData.RePassword, DbType.String, ParameterDirection.Input);
                 parameters.Add("@ContactNo", formData.ContactNo, DbType.String, ParameterDirection.Input);
                 parameters.Add("@Address", formData.Address, DbType.String, ParameterDirection.Input);
                 parameters.Add("@DateofBirth", formData.DateofBirth, DbType.Date, ParameterDirection.Input);
@@ -40,7 +41,7 @@ namespace WebApi.Repositories
                 parameters.Add("@Insta", formData.Insta, DbType.String, ParameterDirection.Input);
                 parameters.Add("@Twitter", formData.Twitter, DbType.String, ParameterDirection.Input);
                 parameters.Add("@IsActive", formData.IsActive, DbType.Boolean, ParameterDirection.Input);
-                parameters.Add("@RoleId", formData.RoleId, DbType.Int32, ParameterDirection.Input);
+                //parameters.Add("@RoleId", formData.RoleId, DbType.Int32, ParameterDirection.Input);
 
                 //parameters.Add("@Firstname", formData.UserId, DbType.String, ParameterDirection.Input);
                 //parameters.Add("@Firstname", formData.Firstname, DbType.String, ParameterDirection.Input);
@@ -77,18 +78,18 @@ namespace WebApi.Repositories
         public Register Authenticate(Register obj)
         {
             DynamicParameters parameters = new DynamicParameters();
-            parameters.Add("@UsernameEmail", obj.Email, DbType.String, ParameterDirection.Input);
+            parameters.Add("@Email", obj.Email, DbType.String, ParameterDirection.Input);
             parameters.Add("@Password", obj.Password, DbType.String, ParameterDirection.Input);
 
-            var data = _dapper.GetMultipleObjects(@"[sp_Login]", parameters, gr => gr.Read<Register>());
-
+            var data = _dapper.Insert<Register>(@"LoginUser", parameters);
+            return data;
             // Ensure the result is properly casted or destructured
-            var registerList = (IEnumerable<Register>)data;
+            //var registerList = (IEnumerable<Register>)data;
 
-            return registerList.FirstOrDefault(); // Return the first Register object or null
+            //return registerList.FirstOrDefault(); // Return the first Register object or null
         }
 
-
+                                                                                                                                                                                                                                                
 
 
 

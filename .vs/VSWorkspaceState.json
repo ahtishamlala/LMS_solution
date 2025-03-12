@@ -3,7 +3,9 @@
     "",
     "\\WebApi",
     "\\WebApp",
-    "\\WebApp\\Controllers"
+    "\\WebApp\\Controllers",
+    "\\WebApp\\Views",
+    "\\WebApp\\Views\\Home"
   ],
   "SelectedNode": "\\LMS_solution.sln",
   "PreviewInSolutionExplorer": false

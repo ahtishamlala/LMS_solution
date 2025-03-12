@@ -4,6 +4,7 @@ using Dapper;
 using System.Data.SqlClient;
 using static Dapper.SqlMapper;
 using ClassLibrary;
+using System.Configuration;
 
 namespace WebApi.DBManager
 {
@@ -352,6 +353,9 @@ namespace WebApi.DBManager
         {
             throw new NotImplementedException();
         }
+        
+      
+
     }
 
 }

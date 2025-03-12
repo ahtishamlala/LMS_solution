@@ -5,6 +5,7 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
@@ -19,6 +20,8 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+//app.UseSession();
+app.MapControllers();
 
 app.MapControllerRoute(
     name: "default",
@@ -30,4 +33,6 @@ app.MapControllerRoute(
     name: "areas",
     pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
 );
+
+
 app.Run();

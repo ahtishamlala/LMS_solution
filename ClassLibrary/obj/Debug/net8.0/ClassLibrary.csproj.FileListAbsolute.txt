@@ -20,3 +20,6 @@ C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\Class
 C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
 C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
 C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\ClassLibrary\bin\Debug\net8.0\ClassLibrary.runtimeconfig.json
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ClassLibrary.sourcelink.json
+C:\Users\S a k h i compuTER\Downloads\LMS Project\LMS Project\LMS_solution\ClassLibrary\obj\Debug\net8.0\ClassLibrary.genruntimeconfig.cache
